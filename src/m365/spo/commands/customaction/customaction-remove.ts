@@ -124,6 +124,9 @@ class SpoCustomActionRemoveCommand extends SpoCommand {
         option: '-i, --id <id>'
       },
       {
+        option: '-t, --title <title>'
+      },
+      {
         option: '-u, --url <url>'
       },
       {
